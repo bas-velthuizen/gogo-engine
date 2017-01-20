@@ -1,4 +1,4 @@
-package gogoen
+package gogo
 
 func genMove(x int, y int, player byte) Move {
 	return Move{Player: player, Position: Coordinate{X: x, Y: y}}

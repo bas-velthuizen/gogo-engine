@@ -1,4 +1,4 @@
-package gogoen
+package gogo
 
 import (
 	"time"
